@@ -1,0 +1,1 @@
+# delegates-multiple-anonymous-lambda
